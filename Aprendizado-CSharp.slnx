@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Course/ExemploLeituraDados1.csproj" />
+  <Project Path="ExemploEscritaDados1/ExemploEscritaDados1.csproj" Id="da78fe5e-17e2-4212-bbf8-4e5effcb5b4f" />
+  <Project Path="ExemploEscritaDados2/ExemploEscritaDados2.csproj" Id="0c8156a0-b74e-4b9b-b5ca-f09de43c6124" />
+  <Project Path="ExemploLeituraFormulaBhaskara/ExemploLeituraFormulaBhaskara.csproj" Id="e072284b-7f64-4e8e-b3fe-c108ee8c0680" />
+  <Project Path="ExercicioFixacao1/ExercicioFixacao1.csproj" Id="dfb06a61-3404-4721-8230-37f66ffb21d2" />
+</Solution>
